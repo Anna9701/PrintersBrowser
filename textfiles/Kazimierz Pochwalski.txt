@@ -1,0 +1,11 @@
+Kazimierz Pochwalski
+Kraków 1855 - Kraków 1940
+"Sielanka.jpg"	"Sielanka "	"1879. Olej na p³ótnie. 138 x 104 cm. Muzeum Narodowe w Warszawie.       "
+"Lirnik.jpg"	"Lirnik "	"1885. Olej na p³ótnie. 35 x 45 cm. Lwowska Galeria Sztuki.       "
+"Lirnik_przed_chata.jpg"	"Lirnik przedchat± "	"1887. Olej na p³ótnie. 66,5 x 82 cm. Muzeum Narodowe w Warszawie.       "
+"Pawel_Popiel.jpg"	"Portret Paw³a Popiela "	"1889. Olej na p³ótnie. 142 x 102 cm. Muzeum Narodowe w Krakowie.       "
+"W_Dzieduszycki.jpg"	"Portret W³odzimierza Dzieduszyckiego "	"1891-1892. Olej na p³ótnie. 141,5 x 103 Muzeum Narodowe we Wroc³awiu.       "
+"Autoportret_z_paleta.jpg"	"Autoportret z palet± "	"1895. Olej na p³ótnie. 161 x 110 cm Muzeum Narodowe w Warszawie.       "
+"Stara_chata.jpg"	"Stara chata "	"?. Olej na p³ótnie. 20 x 30 cm. W³asno¶æ prywatna.       "
+"W_karczmie.jpg"	"W karczmie "	"?. Olej na p³ótnie. 34 x 25,5 cm. Muzeum Okrêgowe w Lesznie.       "
+"Druciarczyk.jpg"	"Druciarczyk "	"?. Olej na desce. 32 x 26 cm.  W³asno¶æ prywatna.       "

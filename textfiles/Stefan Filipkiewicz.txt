@@ -1,0 +1,17 @@
+Stefan Filipkiewicz
+Tarnów 1879 - Mauthausen 1944
+"Topniejace_sniegi.jpg"	"Topniej±ce ¶niegi  "	"1902. Olej, p³ótno. 46 x 71 cm.  W³asno¶æ prywatna."
+"Chata_w_sloncu.jpg"	"Chata w s³oñcu "	"1904.  Muzeum Narodowe, Wroc³aw."
+"Laka.jpg"	"£±ka "	"1904. Olej, p³ótno. 100 x 120 cm.  Fundacja Raczyñskich przy Muzeum Narodowym w Poznaniu.       "
+"Laka_2.jpg"	"£±ka "	"?. Olej, tektura. 20 x 55 cm.  W³asno¶æ prywatna."
+"Strumien_w_zimie_2.jpg"	"Strumieñ w zimie "	"1904. Olej, p³ótno. 53 x 66,5 cm.  Muzeum Mazowieckie w P³ocku."
+"Rzeka_w_zimie.jpg"	"Rzeka w zimie "	"?. Olej, p³ótno. 48 x 52 cm.  W³asno¶æ prywatna."
+"Widok_Tatr.jpg"	"Widok Tatr "	"1904. Olej, p³ótno. 80 x 70 cm.  Muzeum Narodowe, Warszawa."
+"Tatry_zima.jpg"	"Widok Tatr zim± "	"1908. Olej, p³ótno. 100 x 139 cm.  W³asno¶æ prywatna.       "
+"Strumien_w_zimie.jpg"	"Strumieñ w zimie "	"? W³asno¶æ prywatna.       "
+"Dolina_Dunajca.jpg"	"Dolina Dunajca w deszczu "	"1908. Olej na p³ótnie. 70,5 x 80 cm.  Lwowska Galeria Sztuki.       "
+"Zima_w_Zakopanem.jpg"	"Zima w Zakopanem "	"Po 1918.        "
+"Strumien_lesny.jpg"	"Strumieñ le¶ny zim± (Odwil¿) "	"1919. Olej, tektura. 69,5 x 98,5 cm.  Muzeum Narodowe, Warszawa."
+"Zima_krysztalowa.jpg"	"Zima kryszta³owa "	"Ok. 1920. Olej na p³ótnie. 45 x 54,5 cm.  Lwowska Galeria Sztuki. "
+"Lato_na_Podhalu.jpg"	"Lato na Podhalu "	"1923. Olej, tektura. 32,3 x 48,1 cm.  W³asno¶æ prywatna. "
+"Zakole_Wisly.jpg"	"Zakole Wis³y "	"1927. Olej, p³ótno. 100 x 150 cm.  W³asno¶æ prywatna. "

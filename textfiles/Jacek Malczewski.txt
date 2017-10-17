@@ -1,0 +1,17 @@
+&nbsp;Jacek Malczewski
+Radom 1854 - Kraków 1929
+"Matka_Boska.jpg"	"Matka Boska, szkic  "	"Ok. 1874. Olej na p³ótnie. 52 x 41,8 cm.  Galeria Obrazów, Lwów."
+"Helena_Marcello.jpg"	"Portret Heleny Marcell.  "	"Po 1880. Olej na p³ótnie. 124,5 x 93,5 cm.  Muzeum Narodowe, Wroc³aw."
+"Niedziela_w_kopalni.jpg"	"Niedziela w kopalni  "	"1882. Olej na p³ótnie. 118 x 180 cm.  Muzeum Narodowe, Warszawa."
+"Smierc_Ellenai_I.jpg"	"¦mieræ Ellenai  "	"1883. Olej na p³ótnie. 212 x 370 cm.  Muzeum Narodowe, Kraków."
+"Rodos.jpg"	"Rodos "	"1884. Akwarela, papier. 17,5 x 24 cm.  Lwowska Galeria Sztuki."
+"Narzeczona.jpg"	"Portret narzeczonej - Marii Gralewskiej       "	"1887. Olej na p³ótnie. 140 x 70 cm.  Muzeum Narodowe, Kraków."
+"Umywanie_nog.jpg"	"Umywanie nóg  "	"1887. Olej na p³ótnie. 196 x 140 cm.  Muzeum Narodowe, Poznañ."
+"Rusalki_4.jpg"	"On i Ona (cykl <span style="font-style: italic;">Rusa³ki</span>)  "	"1887. Olej na p³ótnie. 38 x 107 cm.  Muzeum Uniwersytetu Jagielloñskiego, Kraków."
+"Rusalki_5f.jpg"	"Opêtany (cykl <span style="font-style: italic;">Rusa³ki</span>) <big>- fragment</big>"	"1887. Olej na p³ótnie. 39,5 x 109 cm.  Muzeum Uniwersytetu Jagielloñskiego, Kraków."
+"Rusalki.jpg"	"Boginka w dziewannach (cykl <span style="font-style: italic;">Rusa³ki</span>)  "	"1888. Olej na p³ótnie. 45,5 x 96,5 cm.  Muzeum Uniwersytetu Jagielloñskiego, Kraków."
+"Rusalki_2.jpg"	"Topielec w u¶ciskach dziwo¿ony ( <font size="+1">cykl <span style="font-style: italic;">Rusa³ki</span> <font size="+1">)  "	"1888. Olej na p³ótnie. 40,5 x 96,5 cm.  Muzeum Uniwersytetu Jagielloñskiego, Kraków."
+"Rusalki_3.jpg"	"Za³askotany ( <font size="+1">cykl <span style="font-style: italic;">Rusa³ki</span> <font size="+1">) "	"1888. Olej na p³ótnie. 38 x 109,5 cm.  Muzeum Uniwersytetu Jagielloñskiego, Kraków."
+"Introdukcja.jpg"	"Introdukcja  "	"1890. Olej na p³ótnie. 330 x 228 cm.  Muzeum Narodowe, Kraków."
+"Wspomnienie_mlodosci.jpg"	"Wspomnienie m³odo¶ci  "	"1890. Olej na p³ótnie. 41 x 110 cm.  Muzeum Narodowe, Warszawa."
+"Sloneczniki.jpg"	"S³oneczniki  "	"Ok.1890. Olej na tekturze. 41,5 x 26 cm.  W³asno¶æ prywatna."

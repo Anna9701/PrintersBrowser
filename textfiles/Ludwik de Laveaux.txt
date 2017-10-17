@@ -1,0 +1,17 @@
+Ludwik de Laveaux
+Jaronowice k. Jêdrzejowa 1868 - Pary¿ 1894
+"Dziadek.jpg"	"Portret dziadka artysty  "	"Ok. 1882. Olej na p³ótnie. 32 x 26,5 cm.  W³asno¶æ prywatna.  ----------------------------- Proszê zwróciæ uwagê na wiek artysty w czasie malowania tego obrazu.       "
+"Babcia.jpg"	"Portret babkiartysty  "	"Ok. 1882-1884. Olej na p³ótnie. 32 x 26,5 cm.  W³asno¶æ prywatna. "
+"Ruiny_Bedzina.jpg"	"Ruiny Bêdzina "	"1884-1886. O³ówek, papier. 12 x 18,7 cm.  W³asno¶æ prywatna."
+"Portret_siostry.jpg"	"Portretsiostry  "	"Ok. 1885. Tusz piórem, papier. 10,5 x 9,5 cm.  W³asno¶æ prywatna."
+"Goral_w_kapeluszu.jpg"	"Góral wkapeluszu (Góralczyk) "	"1885-1886 (?). Olej na p³ótnie. 52,5 x 42 cm.  Muzeum Narodowe, Gdañsk.       "
+"Dziewczynka_z_baziami.jpg"	"Dziewczynka zbaziami "	"1887. Olej na p³ótnie. 47 x 41 cm.  Muzeum Narodowe, Szczecin."
+"Arab.jpg"	"Studiummê¿czyzny w stroju wschodnim (I) (Arab) "	"1887-1889. Akwarela, papier. 31 x 24,2 cm.  Muzeum Narodowe, Kraków."
+"Arab_z_ksiega.jpg"	"Studiummê¿czyzny w stroju wschodnim (II) (Arab z otwart± ksiêg±) "	"1887-1889. Akwarela, papier. 31 x 24,2 cm.  Muzeum Narodowe, Kraków."
+"Wloczega.jpg"	"W³óczêga(Dziad) "	"1888. Olej na p³ótnie. 46 x36 cm.  Muzeum Narodowe, Poznañ."
+"Ubogi_pogrzeb.jpg"	"Ubogi pogrzeb(Ofiara zimy; Cmentarz) "	"1889. Olej na p³ótnie. 63,5 x 100 cm.  W³asno¶æ prywatna. ------------------------------ Cz³owiek id±cy przodem niesie pod pach± ma³± trumienkê.       "
+"Do_miasta.jpg"	"Do miasta.       "	"1889. Olej, p³ótno. 56 x 46 cm.  Lwowska Galeria Sztuki, Lwów.  Zmniejszona replika obrazu z MN w Poznaniu."
+"Do_Morskiego_Oka.jpg"	"W drodze do Morskiego Oka.  "	"1889. Olej, p³ótno. 81 x 56 cm.  Muzeum Narodowe, Warszawa."
+"Pogrzeb_T_Ch_1.jpg"	"Eksportacjazw³ok Tytusa Cha³ubiñskiego przez Krupówki "	"1889. Orygina³ nieznany; zapewne tusz pêdzlem. Reprodukcja w "Tygodniku Ilustrowanym" 1889, nr 359, str. 320. ------------------------------------------ Redakcja "Tygodnika Ilustrowanego" zamówi³a u Ludwika de Laveauxrysunkowy reporta¿ z pogrzebu T. Cha³ubiñskiego.       "
+"Pogrzeb_T_Ch_2.jpg"	"PogrzebTytusa Cha³ubiñskiego w Zakopanem "	"1889. Tusz pêdzlem, gwasz, o³ówek,papier. 36,2 x 26,3 cm.  Muzeum Narodowe, Warszawa."
+"Praczki.jpg"	"Praczki "	"1889. Gwasz, karton. 47 x 57 cm.  Muzeum Narodowe, Kraków."

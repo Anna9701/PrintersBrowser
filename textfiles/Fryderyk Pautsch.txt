@@ -1,0 +1,17 @@
+Fryderyk Pautsch
+Delatyñ k. Stanis³awowa 1877 - Kraków 1950
+"Karol_Frycz.jpg"	"Portret Karola Frycza  "	"1902. Pastel na tekturze. W³asno¶æ prywatna."
+"Leon_Wyczolkowski.jpg"	"Leon Wyczó³kowski "	"1903."
+"Jan_Matejko.jpg"	"Jan Matejko "	"1903."
+"Babunia_z_dziecmi.jpg"	"Babunia z dzieæmi "	"1903."
+"Rycerz.jpg"	"Rycerz "	"1903."
+"Krakowiak.jpg"	"Krakowiak "	"1903."
+"Najnowsza_moda.jpg"	"Najnowsza moda "	"1903."
+"Krew_blekitna.jpg"	"Kr±¿enie krwi b³êkitnej "	"1903. O³ówek na papierze.       "
+"Gruby_mezczyzna.jpg"	"Gruby mê¿czyzna "	"1903. O³ówek na papierze.       "
+"Pogrzeb_huculski.jpg"	"Pogrzeb huculski  "	"1907. Olej na p³ótnie. Muzeum Narodowe, Kraków."
+"Stanislaw_Womela.jpg"	"Portret krytyka Stanis³awa Womeli  "	"1908. Olej na kartonie. 104 x 73 cm.  Lwowska Galeria Sztuki."
+"Leopold_Staff.jpg"	"Portret Leopolda Staffa "	"1908. Olej na p³ótnie       "
+"Zamyslona.jpg"	"Zamy¶lona (Dziewczynka we wnêtrzu) "	"1908. Olej na tekturze       "
+"Nowozency.jpg"	"Nowo¿eñcy (Para ¶lubna) "	"1910. Olej na p³ótnie. 142 x 120 cm. Muzeum okrêgowe w Toruniu.       "
+"Matka_z_dzieckiem.jpg"	"Portret kobiety z dzieckiem (Matka zdzieckiem; Portret Olgi Lewickiej z synkiem W³odzimierzem)  "	"1911. Olej na p³ótnie. 122 x 106 cm.  Lwowska Galeria Sztuki."

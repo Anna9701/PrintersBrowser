@@ -1,0 +1,17 @@
+W³adys³aw Podkowiñski
+Warszawa 1866 - Warszawa 1895
+"Piwniczy.jpg"	"Piwniczy (Klucznik)"	"      <small>Rysunek do ksi±¿ki o Warszawie.</small>        1885. Tusz, pióro, papier. 29,2 x 23,3 cm.  Muzeum Narodowe, Warszawa.       "
+"Strzelec_konny.jpg"	"Strzelec konny       "	"1885. Akwarela.       "
+"Autoportret1887.jpg"	"Autoportret "	"1887. Olej na p³ótnie. 55 x 45 cm.  Muzeum ¦l±skie, Katowice."
+"Na_wyscigach.jpg"	"Na wy¶cigach "	"1887. Rysunek."
+"Plac_sw_Aleksandra.jpg"	"Plac ¶w.Aleksandra  "	"1887. Gwasz.       "
+"Wyjazd_na_polowanie.jpg"	"Wyjazd napolowanie "	"1888"
+"Nad_Sekwana.jpg"	"W Pary¿u nadSekwan± "	"1889. Akwarela.       "
+"Wystawa.jpg"	"WystawaTowarzystwa Zachêty Sztuk Piêknych "	"1889. Muzeum Narodowe, Kraków.       "
+"Damy_przy_bilardzie.jpg"	"Damy przybilardzie "	"1890. Rysunek wg zaginionego obrazu.       "
+"Na_cmentarzu.jpg"	"Na cmentarzu- Zaduszki "	"1890. Rysunek tuszem. Zaginiony.       "
+"Czeslaw_Jankowski.jpg"	"PortretCzes³awa Jankowskiego "	"1890. Olej na p³ótnie.       "
+"Nowa_Slupia.jpg"	"Widok NowejS³upi "	"1890. Akwarela."
+"Bronisia.jpg"	"Dziewczynkana tle ogrodu (Bronisia) "	"1891. Akwarela."
+"Lubin_w_sloncu.jpg"	"£ubin w s³oñcu.  "	"1891. Olej na p³ótnie. 41 x 61 cm.  Muzeum Narodowe, Kraków."
+"W_ogrodzie.jpg"	"W ogrodzie przy klombie.  "	"1891. Olej na p³ótnie. 50 x 61 cm.  Muzeum Narodowe, Poznañ."

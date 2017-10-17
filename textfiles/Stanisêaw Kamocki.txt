@@ -1,0 +1,17 @@
+Stanis³aw Kamocki
+Warszawa 1875 - Zakopane 1944
+"Babie_lato.jpg"	"Babie lato  "	"1904.  Wlasno¶æ prywatna."
+"Radziszow_kosciol.jpg"	"Ko¶ció³ w Woli Radziszowskiej "	"Ok. 1905. Olej na p³ótnie. 103 x 128 cm.  Muzeum Narodowe, Kraków."
+"Kwiaty_przed_chata.jpg"	"Kwiaty przed chat±  "	"Ok. 1905. Olej na dykcie. 61 x 66 cm.  Muzeum Narodowe, Kraków."
+"Kwitnaca_jablon.jpg"	"Kwitn±ca jab³oñ  "	"1906. Olej na p³ótnie. 100 x 114 cm.  Galeria Sztuki, Lwów."
+"Klosy.jpg"	"K³osy (Z Sandomierza)  "	"Ok. 1907. Olej na p³ótnie. 84,5 x 94 cm.  Galeria Sztuki, Lwów."
+"Kosciol_w_Woli.jpg"	"Ko¶ció³ wWoli Radziszowskiej  "	"Ok. 1907. "
+"Pejzaz_wiejski.jpg"	"Pejza¿wiejski (Motyw z Radziszowa) "	"1907. Olej na p³ótnie. 95 x 113,5 cm. W³asno¶æ prywatna.       "
+"Motyw_z_Radziszowa.jpg"	"Motyw z Radziszowa  "	"1907  Muzeum Narodowe, Kraków."
+"Klasztor_w_Czernej.jpg"	"Widok na klasztor w Czernej  "	"1908. Olej na p³ótnie. 95 x 114 cm.  Muzeum Narodowe, Kraków."
+"Lany.jpg"	"£any  "	"Ok. 1908."
+"Pejzaz_letni.jpg"	"Pejza¿ letni       "	"1908. Olej na p³ótnie. 71 x 112 cm.  W³asno¶æ prywatna."
+"Sad.jpg"	"Sad "	"Ok. 1908."
+"Dworek_jesienia.jpg"	"Dworek jesieni±.  "	"1909. Olej na p³ótnie. 101 x 124 cm.  Muzeum Narodowe, Warszawa."
+"Zima.jpg"	"Zima.  "	"1910. Olej na p³ótnie. 71 x 72 cm.  Muzeum ¦l±skie, Katowice."
+"Roztopy.jpg"	"Roztopy.  "	"Ok. 1910. Olej na p³ótnie. 52,5 x 64 cm.  Muzeum Narodowe, Warszawa."

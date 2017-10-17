@@ -1,0 +1,16 @@
+Vlastimil Hofman
+Praga 1881 - Szklarska Porêba 1970
+"Madonna_1.jpg"	"Madonna.       "	"1909. Olej na p³ótnie. 60 x 60 cm.       Galeria Obrazów, Lwów."
+"Madonna_2.jpg"	"Madonna z Dzieci±tkiem i ¶w. Janem.       "	"1909. Olej na p³ótnie. 109 x 129 cm.       Muzeum Narodowe, Poznañ."
+"Koncert.jpg"	"Koncert.       "	"1910.       Muzeum Narodowe, Kraków."
+"Autoportret_w_kapeluszu.jpg"	"Autoportret w kapeluszu.       "	"1918. Olej na p³ótnie. 36 x 35,5 cm.       W³asno¶æ prywatna."
+"Wiosna.jpg"	"Wiosna.       "	"1918.       Muzeum Narodowe, Kraków."
+"Autoportret_1920.jpg"	"Autoportret.       "	"1920."
+"Testament_mojej_sztuki.jpg"	"Testament mojej sztuki.       "	"1922."
+"Autoportret_1926.jpg"	"Autoportret.       "	"1926."
+"Aniol_z_tulipanem.jpg"	"Anio³ z tulipanem.       "	"Lata 30-te XX wieku."
+"Madzia_Makowska.jpg"	"Portret Madzi Makowskiej.       "	"1959."
+"Dwoch_starcow.jpg"	"Dwóch starców. </td>      <td>      <center>800x561      "	"73 KB</center>      "
+"Dziewczyna_z_ksiega.jpg"	"Dziewczyna z ksiêg±. </td>      <td>      <center>419x600      "	"41 KB</center>      "
+"Makolagwy.jpg"	"Makol±gwy.       "	"?       W³asno¶æ prywatna."
+"Rybak_z_corka.jpg"	"Rybak z córk±. </td>      <td>      <center>800x523      "	"53 KB</center>      "

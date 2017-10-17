@@ -1,0 +1,13 @@
+Wac³aw Pawliszak
+Warszawa 1866 - Warszawa 1905
+"Autor.jpg"	"Ilustracja do <span style="font-style: italic;">Autora</span>G. Zieliñskiego "	"Ok. 1897. Olej na p³ótnie. 30,3 x 40 cm. Muzeum Mazowieckie w P³ocku.       "
+"Pogon_centaurow.jpg"	"Pogoñcentaurów "	"1904. Olej na p³ótnie. 51 x 97,5 cm. Muzeum Mazowieckie w P³ocku.       "
+"Lucznik_tatarski.jpg"	"£uczniktatarski "	"?. Tusz, gwasz. 34,3 x 25 cm. Muzeum Narodowe, Warszawa."
+"Przeglad_husarii.jpg"	"Przegl±d husarii "	"?.  Muzeum Narodowe, Warszawa.       "
+"Atak_Turkow.jpg"	"Atak Turków "	"? Muzeum Narodowe, Warszawa."
+"Potyczka_w_drodze.jpg"	"Potyczka w drodze "	"?. Olej na p³ótnie. 79 x 134 cm. Muzeum Narodowe, Warszawa.       "
+"Podarunek_kozacki.jpg"	"Podarunek kozacki "	"?"
+"Powrot_z_narzeczona.jpg"	"Powrót z narzeczon± "	"?. Olej na p³ótnie. 72 x 45 cm.  W³asno¶æ prywatna.       "
+"Modlitwa_Arabow.jpg"	"Modlitwa Arabów "	"?. Olej na p³ótnie. 34 x 60 cm.  W³asno¶æ prywatna."
+"W_stepie.jpg"	"W stepie "	"?. Olej na p³ótnie. 55 x 110 cm. W³asno¶æ prywatna."
+"Straz_hetmanska.jpg"	"Stra¿ hetmañska "	"?.  W³asno¶æ prywatna."

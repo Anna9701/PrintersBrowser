@@ -1,0 +1,17 @@
+Stanis³aw Noakowski
+Nieszawa 1867 - Warszawa 1928
+"Kosciol_1914.jpg"	"Ko¶ció³ "	"1914. Muzeum Narodowe w Warszawie.       "
+"Architektura&#32;romanska.jpg"	"Architektura romañska "	"1915.  Muzeum Narodowe w Warszawie.       "
+"Przedsionek_w_palacu.jpg"	"Przedsionek w pa³acu barokowym "	"1915. Muzeum Narodowe w Warszawie.       "
+"Architektura_barokowa.jpg"	"Zespó³ architektury barokowej "	"1916. Muzeum Narodowe w Warszawie."
+"Palac_barokowy_16-17w.jpg"	"Pa³ac barokowy <big> z prze³omuXVI-XVII wieku</big>"	"1916.  Muzeum Narodowe w Warszawie."
+"Architektura_rosyjska.jpg"	"Architektura rosyjska "	"1917 ?"
+"Motywy_rosyjskie.jpg"	"Z motywów architektury dawnej Rosji "	"? Muzeum Narodowe w Warszawie.       "
+"Fragment_arch_16w.jpg"	"Fragment architektury z wieku XVI "	"1917. Muzeum Narodowe w Warszawie.       "
+"Fragm_arch_16w.jpg"	"Fragment architektury z wieku XVI "	"1917. Muzeum Narodowe w Warszawie. "
+"Przedsionek_kosciola.jpg"	"Kruchta ko¶cio³a "	"1917.  Muzeum Akademii Sztuk Piêknych w Warszawie.       "
+"Fragment_kosciola.jpg"	"Fragment ko¶cio³a "	"1917. Muzeum Narodowe w Warszawie.       "
+"Portal_barokowy.jpg"	"Portal barokowy "	"1918.  Muzeum Diecezjalne w Tarnowie.       "
+"Zamek_1918.jpg"	"Zamek "	"1918 Muzeum Narodowe w Warszawie."
+"Dawna_architekt_polska.jpg"	"Z dawnej architektury polskiej "	"1920.  ?"
+"Luk_triumfalny.jpg"	"£uk triumfalny (Projekt Pomnika Wolno¶ci) "	"1920-1922.  Muzeum Narodowe w Warszawie."

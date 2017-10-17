@@ -1,0 +1,13 @@
+Teofil Kwiatkowski
+Pu³tusk 1809 - Avallon 1891
+"Widok_wybrzeza.jpg"	"Widok wybrze¿a "	"1840-1845. Olej na desce. 20 x 38,5 cm. Muzeum Narodowe w Warszawie.       "
+"Syreny.jpg"	"Syreny "	"Ok. 1845. Olej na p³ótnie. 60 x 82 cm. Kolekcja Ksi±¿±t Czartoryskich w Krakowie.       "
+"Pejzaz_z_Avignionu.jpg"	"Pejza¿ zAvignionu "	"1850. Olej na desce. 21,5 x 32 cm. Muzeum Narodowe w Krakowie. "
+"Polonez_Chopina.jpg"	"Polonez Chopina (Bal w hotelu Lambert) "	"1855-1860. Akwarela i gwasz. 53,5 x 119 cm. Muzeum Narodowe w Poznaniu. "
+"Dolina_Cousin_1.jpg"	"Pejza¿ z doliny Cousin "	"1868. Olej na desce. 24 x 19 cm. W³asno¶æ prywatna.       "
+"Na_pobojowisku.jpg"	"Na pobojowisku <big></big>"	"1869. Muzeum Narodowe w Warszawie."
+"Dolina_Cousin_2.jpg"	"Pejza¿ z doliny Cousin <big> ko³o Avallon</big>"	"Po 1871. Olej na p³ótnie. 40 x 55 cm. Muzeum Narodowe w Warszawie. "
+"Wspomnienie_Avinionu.jpg"	"Wspomnienie Avignionu "	"1880. Olej na desce. 18,5 x 27 cm. Muzeum Narodowe w Poznaniu."
+"Dolina_Cousin_3.jpg"	"Pejza¿ z doliny Cousin "	"1885. Olej na p³ótnie. 29 x 25 cm. Muzeum Narodowe w Warszawie.        "
+"MN_&#32;z_owocami.jpg"	"Martwa natura z owocami "	"Ok. 1888. Olej na p³ótnie. 48,5 x 64,5 cm. Muzeum Narodowe w Warszawie. "
+"Adam_Mickiewicz.jpg"	"Portret Adama Mickiewicza "	"? Akwarela, papier. 42 x 36 cm. Muzeum Narodowe w Krakowie.        "

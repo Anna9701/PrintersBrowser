@@ -1,0 +1,17 @@
+Andrzej Stech
+S³upsk 1635 - Gdañsk 1697
+"Portret_mezczyzny.jpg"	"Portret Mê¿czyzny z dwomakwiatkami "	"Ok. 1666. Olej na p³ótnie. 84 x 75 cm.  Muzeum Narodowe w Gdañsku."
+"Aleksander_Ostrogski.jpg"	"Ksi±¿ê Aleksander Zas³awski Ostrogski "	"1670. Olej na p³ótnie. Muzeum Narodowe w Miñsku (Bia³oru¶).       "
+"Spacer_za_murami.jpg"	"Spacer za murami Gdañska "	"1670-1672. Olej na p³ótnie. 86,2 x 113 cm.        <font size="+1"> Herzog-Anton-Ulrich Museum, Braunschweig.       "
+"MN_z_wiewiorka.jpg"	"Martwa natura z wiewiórk± "	"Ok. 1672-1678. Olej na p³ótnie. 90 x 122 cm.  Muzeum Narodowe w Gdañsku."
+"Sw_Filip.jpg"	"¦wiêty Filip chrzci dworzanina etiopskiego "	"1673. Olej na p³ótnie. 300x145 cm.  Katedra w Pelplinie.       "
+"Rodzina_Dariusza.jpg"	"Rodzina Dariusza przed Aleksandrem Wielkim "	"1674. Gwasz, papier. 27,4 x 44 cm Muzeum Narodowe w Gdañsku."
+"Mieszczanin_gdanski.jpg"	"Portret mieszczanina gdañskiego "	"Ok. 1675.  Muzeum Narodowe w Poznaniu.       "
+"Poklon_3_Kroli.jpg"	"Pok³on Trzech Króli "	"Ok. 1675. Muzeum Historyczne w Gdañsku.       "
+"Porwanie_Europy.jpg"	"Porwanie Europy "	"Ok. 1676. Gwasz, papier. 27 x 37 cm Muzeum Narodowe w Gdañsku."
+"JG_Schmiedt.jpg"	"Portret Johanna Gabriela Schmiedta (1662-1686) "	"1678. Olej na p³ótnie. 79,5 x 64 cm.  Muzeum Narodowe w Gdañsku."
+"MN_kwiatowa.jpg"	"Martwa natura kwiatowa "	"Ok. 1678. Olej na p³ótnie. 63 x 46 cm.  Augsburg, Städtische Kunstsammlungen.       "
+"MN_kwiatowa_w_wazonie.jpg"	"Martwa natura kwiatowa w szklanym wazonie       "	"? Olej na p³ótnie. 52 x 46,5 cm.  Zbiory Fundacji Ksi±¿±t Czartoryskich w Krakowie.       "
+"Panorama_Gdanska.jpg"	"Zimowa panorama Gdañska "	"Do 1678."
+"Mlodzieniec_z_medalem.jpg"	"Portret m³odzieñca z medalem z rodzinySchmiedenów "	"1680. Olej na p³ótnie. 78 x 63 cm.  Muzeum Narodowe w Gdañsku."
+"Heinrich_Schwarzwaldt.jpg"	"Portret Heinricha Schwarzwaldta (1642-1705),rajcy gdañskiego "	"1682.&nbsp; Olej na p³ótnie. 127 x 93 cm. Muzeum Narodowe w Gdañsku."

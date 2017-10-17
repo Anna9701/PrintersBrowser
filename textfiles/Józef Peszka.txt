@@ -1,0 +1,13 @@
+Józef Peszka
+Kraków 1767 - Kraków 1831
+"H_Kollataj.jpg"	"Portret Hugona Ko³³±taja "	"1790-1791. Zamek Królewski w Warszawie."
+"S_Kublicki.jpg"	"Portret Stanis³awa Kublickiego "	"1790-1791. Olej na p³ótnie. 155 x 111 cm.  Muzeum Narodowe, Warszawa."
+"A_K_Czartoryski.jpg"	"Adam Kazimierz Czartoryski "	"1791. Olej na p³ótnie. 154 x 109,5 cm.  Muzeum Narodowe, Warszawa."
+"F_Smuglewicz.jpg"	"Portret Franciszka Smuglewicza  "	"1790-1791. Olej na p³ótnie. 61 x 51,5 cm.  Lwowska Galeria Sztuki.       "
+"Napoleon_alegoria.jpg"	"Scena alegoryczna z Napoleonem  "	"Po 1810. Muzeum Narodowe, Warszawa."
+"Legiony_we_Wloszech.jpg"	"Legiony polskie we W³oszech "	"? Biblioteka Zak³adu Narodowego im. Ossoliñskich, PAN."
+"T_Radziwillowa.jpg"	"Portret Teofili Radziwi³³owej jako Hebe "	"      "
+"Antokol.jpg"	"Antokol &nbsp; <big>(przedmie¶cieWilna)</big>"	"      "
+"Lubcz.jpg"	"Lubcz widziany od strony Niemna "	"      "
+"Zamek_w_Smolanach.jpg"	"Ruiny zamku w Smolanach (dawne woj.witebskie, dzi¶ Bia³oru¶) "	"      "
+"Szklow.jpg"	"Widok Szk³owa od strony Mohylewa "	"      "

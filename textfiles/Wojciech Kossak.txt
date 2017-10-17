@@ -1,0 +1,15 @@
+Wojciech Kossak
+Pary¿ 1857 - Kraków 1942
+"Autoportret_1.jpg"	"Autoportret w mundurze u³añskim.       "	"1878. Olej na p³ótnie. 150 x 100 cm.  W³asno¶æ prywatna."
+"Portret_zony.jpg"	"Portret ¿ony artysty, Marii z KisielnickichKossakowej.  "	"1884. Olej na p³ótnie. 150 x 100 cm.  W³asno¶æ prywatna."
+"Autoportret_z_paleta.jpg"	"Autoportret z palet±.  "	"1893. Olej na p³ótnie. 154 x 106 cm.  Muzeum Narodowe, Warszawa."
+"Autoportret_z_papierosem.jpg"	"Autoportret z papierosem  "	"?. Olej na desce. 20,9 x 15,7 cm.  W³asno¶æ prywatna."
+"Kosciuszko_na_koniu.jpg"	"Ko¶ciuszko na koniu. Szkic wspólny z JanemStyk± do panoramy"Rac³awice".  "	"1893. Olej na p³ótnie. 122 x 93 cm.  Muzeum ¦l±ska Opolskiego, Opole."
+"Atak_na_baterie.jpg"	"Ko¶ciuszkoprowadzi kosynierów do ataku. "	"Obraz malowany w latach pó¼niejszych.  1924. Olej na p³ótnie. 115 x 130 cm.  Muzeum Wojska Polskiego, Warszawa."
+"Wziecie_do_niewoli.jpg"	"<big>"	"Panorama "Berezyna"</big> </big> Panorama malowana wspólnie z Julianem Fa³atem. Pomagali: Micha³Wywiórski, Kazimierz Pu³aski, Jan Stanis³awski i Antoni Piotrowski. W1907 roku panorama zosta³a pociêta na fragmenty.       "
+"Palenie_sztandarow.jpg"	"Palenie sztandarów. Fragment panoramy"Berezyna".  "	"1894-96. Olej na p³ótnie. 195 x 425 cm.  Muzeum Narodowe, Kraków."
+"Artyleria_w_odwrocie.jpg"	"Artyleria w odwrocie. Szkic do panoramy"Berezyna".  "	"1896. Olej na p³ótnie. 70 x 120 cm.  W³asno¶æ prywatna."
+"Poczet_sztandarowy.jpg"	"Poczet sztandarowy. Fragment panoramy"Berezyna".  "	"1896. Olej na p³ótnie. 230 x 150 cm.  Muzeum Okrêgowe, Lublin"
+"Kuchnia_polowa.jpg"	"Kuchnia polowa nad Berezyn±. Fragmentpanoramy.  "	"1896. Olej na p³ótnie. 200 x 240 cm.  Muzeum ¦l±ska Opolskiego, Opole."
+"Dwaj_husarzy.jpg"	"Dwaj huzarzy francuscy. Fragment panoramy"Berezyna".  "	"Ok. 1896-97. Olej na p³ótnie. 173 x 197 cm.  Muzeum Narodowe, Warszawa."
+"Huzar_na_sniegu.jpg"	"Huzarfrancuski na ¶niegu. Szkic do panoramy"Berezyna".  "	"1896. Olej na p³ótnie. 47 x 62,2 cm.  Muzeum Narodowe, Warszawa."

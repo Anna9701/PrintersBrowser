@@ -1,0 +1,15 @@
+&nbsp;Franciszek ¯murko
+Lwów 1859 - Warszawa 1910
+"Zygmunt_i_Barbara.jpg"	"Zygmunt August i Barbara  "	"Olej na p³ótnie. 14 x 24 cm.  Muzeum Narodowe, Wroc³aw."
+"Zuzanna_i_starcy.jpg"	"Zuzanna i starcy  "	"1879. Olej na p³ótnie. 92 x 100 cm.  Muzeum Narodowe, Kraków."
+"Z_rozkazu_padyszacha.jpg"	"Z rozkazupadyszacha  "	"1881. Olej na p³ótnie. 133,5 x 240 cm.  Muzeum Narodowe, Warszawa. "
+"Nubijczyk.jpg"	"Nubijczyk "	"1884. Olej na p³ótnie. 69 x 33 cm.  Lwowska Galeria Sztuki."
+"Kobieta_z_wachlarzem.jpg"	"Portret kobiety z wachlarzem "	"1884. Olej na p³ótnie. 74 x 51 cm.  Muzeum Narodowe, Warszawa."
+"Widzenie_Fausta.jpg"	"Widzenie Fausta "	"1890.&nbsp;  W³asno¶æ prywatna"
+"Wachlarz_i_papieros.jpg"	"Portret kobiety z wachlarzem i papierosem       "	"1891. Olej na p³ótnie. 93 x 65 cm.  Muzeum Narodowe, Poznañ."
+"Autoportret_z_paleta.jpg"	"Autoportret <big>z palet±</big>"	"1895. Olej na p³ótnie. 160 x 110,5 cm.  Muzeum Narodowe, Warszawa. "
+"Mloda_kobieta.jpg"	"Portret m³odej kobiety  "	"1896. Olej na p³ótnie. 98 x 64 cm.  Muzeum Mazowieckie, P³ock."
+"Laudamus_feminam.jpg"	"Studium do obrazu "Laudamus feminam"  "	"Ok. 1900. Olej na kartonie. 74 x 48 cm.  Lwowska Galeria Sztuki.       "
+"Polakt_kobiecy.jpg"	"Pó³akt kobiecy       "	"Ok. 1900. Pastel na papierze. 39 x 64,5 cm.  Muzeum Narodowe, Gdañsk. "
+"Una_donna.jpg"	"Una donna  "	"Olej na p³ótnie. 143 x 195 cm.  Muzeum Narodowe, Warszawa."
+"Czarne_warkocze.jpg"	"Czarne warkocze  "	"1907. Olej na p³ótnie. 85,5 x 60 cm.  Muzeum Narodowe, Kraków."

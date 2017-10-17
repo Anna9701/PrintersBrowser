@@ -1,0 +1,17 @@
+Micha³ Wywiórski (Gorstkin)
+Warszawa 1861 - Berlin 1926
+"Tabor_kozacki.jpg"	"Tabor kozacki "	"Ok. 1890. Olej na p³ótnie. 65 x 105 cm.  W³asno¶æ prywatna."
+"Zbieracze_morszczyny.jpg"	"Zbieracze morszczyny nad brzegiem morza "	"Ok. 1890. Olej na p³ótnie. 75 x 101 cm.  Muzeum Narodowe w Poznaniu."
+"Ognisko.jpg"	"Ognisko "	"Ok. 1900. Olej na p³ótnie. 100 x 159,5 cm.  Centralne Muzeum Morskie w Gdañsku."
+"Zachod_slonca.jpg"	"Zachód s³oñca nad morzem  "	"Ok. 1901. Olej na p³ótnie. 51 x 70 cm.  Muzeum Narodowe w Szczecinie."
+"Krajobraz_z_jeleniem.jpg"	"Krajobraz poranny z jeleniem "	"1902. Olej na p³ótnie. 142 x 200 cm.  Muzeum Narodowe w Poznaniu."
+"Przed_burza.jpg"	"Przed burz± "	"1903. Olej na p³ótnie. 110 x 177 cm.  Muzeum Narodowe w Gdañsku."
+"Laka_nad_Warta.jpg"	"£±ka nad Wart± "	"1905. Olej na p³ótnie. 44 x 64 cm.  Muzeum Narodowe w Krakowie."
+"Krajobraz_z_dzikami.jpg"	"Krajobraz zimowy z dzikami "	"1906. Olej na p³ótnie. 103 x 274 cm.  Muzeum Narodowe w Poznaniu."
+"Krzyz_na_rozstaju.jpg"	"Krzy¿ na rozstaju "	"1906. Olej na p³ótnie. 135 x 199 cm.  W³asno¶æ prywatna."
+"Laki_w_Rogalinie.jpg"	"£±ki nad Wart± w Rogalinie "	"1907. Olej na p³ótnie. 110 x 161 cm.  Muzeum Narodowe w Poznaniu."
+"Czorsztyn.jpg"	"Ruiny zamku w Czorsztynie "	"Ok. 1911. Olej na p³ótnie. 110 x 121 cm.  Lwowska Galeria Sztuki.       "
+"Pejzaz_z_Bretanii.jpg"	"Pejza¿ morski z Bretanii "	"1911. Olej na p³ótnie. 90,3 x 118,7 cm.  Centralne Muzeum Morskie w Gdañsku. "
+"Lodzie_rybackie.jpg"	"£odzie rybackie u uj¶cia Skaldy "	"1912. Olej na p³ótnie. 40 x 50,2 cm.  W³asno¶æ prywatna. "
+"Z_Holandii.jpg"	"Z Holandii (Przystañ z ³odzi± ryback± przypomo¶cie)"	"       1914. Olej na p³ótnie. 36 x 45 cm.  Centralne Muzeum Morskie w Gdañsku. "
+"Lodz_rybacka.jpg"	"£ód¼ rybacka "	"1916. Olej na p³ótnie. 85 x 120 cm.  Centralne Muzeum Morskie w Gdañsku."

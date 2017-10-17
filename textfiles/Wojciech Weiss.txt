@@ -1,0 +1,17 @@
+Wojciech Weiss
+Leorda na Bukowinie 1875 - Kraków 1950
+"Dziewczyna.jpg"	"Portret dzziewczyny w granatowejsukni "	"1895. Olej na p³ótnie. 86 x 50 cm.  W³asno¶æ prywatna."
+"Odyseusz_w_Hadesie.jpg"	"Odyseusz pod ziemi± w Hadesie  "	"1895. Olej na p³ótnie. 66 x 96 cm cm.  Muzeum Literatury w Warszawie.       "
+"W_pracowni.jpg"	"W pracowni (Akt ch³opiêcy) "	"1895.  W³asno¶æ prywatna.       "
+"Czerwona_wstazka.jpg"	"Czerwona wst±¿ka "	"1896. Olej na p³ótnie. 177 x 90 cm.  W³asno¶æ prywatna."
+"Akt_lezacy.jpg"	"Akt le¿±cy "	"1897. Olej na p³ótnie. 96 x 200 cm.  W³asno¶æ prywatna."
+"Autoportret_z_jablkiem.jpg"	"Szkic do autoportretu z jab³kiem "	"1897. Akwarela na papierze. 31,7 x 45 cm.  Muzeum Literatury w Warszawie."
+"Pensjonarki.jpg"	"Pensjonarki na Plantach "	"1897. Olej na p³ótnie. 43,5 x 59,5 cm.  W³asno¶æ prywatna."
+"Student.jpg"	"Student  "	"1897. Olej na p³ótnie. 96 x 64. Zamek Królewski na Wawelu.       "
+"Czarny_Staw_1.jpg"	"Czarny Staw G±sienicowy "	"1898. Olej na papierze. 22,6 x 31 cm. W³asno¶æ prywatna."
+"Czarny_Staw_2.jpg"	"Czarny Staw G±sienicowy od strony PotokuSuchej Wody "	"1898. Olej na papierze. 23 x 32 cm. W³asno¶æ prywatna."
+"Maly_Koscielec.jpg"	"Grañ Ma³ego Ko¶cielca od strony CzarnegoStawu G±sienicowego "	"1898. Olej na papierze. 22,6 x 31 cm.  W³asno¶æ prywatna."
+"Zachod_slonca.jpg"	"Tatry z zachodz±cym s³oñcem "	"1898. Olej na desce. 12,3 x 21,4 cm.  W³asno¶æ prywatna."
+"Z_Podhala.jpg"	"Z Podhala "	"1898. Olej na desce. 12,3 x 21,5 cm.  W³asno¶æ prywatna."
+"Tecza_nad_Tatrami.jpg"	"Têcza nad Tatrami "	"1898. Olej na desce. 12 x 21,3 cm.  W³asno¶æ prywatna."
+"Widok_na_Giewont.jpg"	"Widok na Giewont "	"1899. Olej na desce. 12,3 x 21,3 cm.  W³asno¶æ prywatna."

@@ -1,0 +1,17 @@
+Eugeniusz Zak
+Mohylno 1884 - Pary¿ 1926
+"Dziewczynka_z_motylem.jpg"	"Dziewczynka z motylem "	"1906. Olej na tekturze.        "
+"Macierzynstwo.jpg"	"Macierzyñstwo (Bretonka z dzieckiem) "	"1906-1907. Technika mieszana, karton.       "
+"W_kosciele.jpg"	"W ko¶ciele (Bretania) "	"1906. Technika mieszana na kartonie."
+"Na_targu.jpg"	"Na targu (M³oda Bretonka na targu w Douarnenez "	"1908. Kredka i technika mieszana na kartonie."
+"Na_morzu.jpg"	"Na morzu "	"1908-1909. Tempera i technika mieszana na kartonie."
+"Mloda_kobieta.jpg"	"M³oda kobieta z niebiesk± wst±¿k± (PortretNathalie Ehrenburg do Mannati) "	"1910       "
+"Glowa_kobiety_1.jpg"	"G³owa kobiety "	"Ok. 1911.&nbsp; "
+"Portret_zony.jpg"	"Portret ¿ony "	"?. Kredka, technika mieszana na papierze. "
+"Pierwsze_kroki.jpg"	"Pierwsze kroki "	"1911."
+"Pasterz.jpg"	"Pasterz "	"1911."
+"Po_zapasach.jpg"	"Po zapasach (Ranny) "	"1911-1912."
+"Kapiaca_sie.jpg"	"K±pi±ca siê "	"1913. Olej na p³ótnie."
+"Labedz.jpg"	"£abêd¼ "	"1913."
+"Syn_marnotrawny.jpg"	"Syn marnotrawny "	"1913. Olej na p³ótnie."
+"Rybak_z_fajka.jpg"	"M³ody rybak z fajk± "	"Ok. 1916."

@@ -1,0 +1,17 @@
+Roman Kochanowski
+Kraków 1857 - Freising w Bawarii 1945
+"Portret_ojca.jpg"	"Portret ojca "	"1877. Olej na p³ótnie. 46 x 37,5 cm.  W³asno¶æ prywatna."
+"Wieczor.jpg"	"Wieczór "	"1879. Olej na p³ótnie. 65 x 103 cm.  Muzeum Narodowe w Warszawie."
+"Drzewa_nad_woda.jpg"	"Drzewa nad wod± "	"1879. Akwarela na papierze. 23 x 45 cm.  W³asno¶æ prywatna."
+"Dwa_pejzaze.jpg"	"Dwa pejza¿e "	"Ok. 1880. Akwarela, o³ówek na papierze. W³asno¶æ prywatna."
+"Gesiarka.jpg"	"Gêsiarka "	"1880. Olej na p³ótnie. 66 x 36 cm.  W³asno¶æ prywatna."
+"Mezczyzna_w_berecie.jpg"	"Portret mê¿czyzny wberecie "	"Ok. 1880. Olej na p³ótnie. 27,5 x 24 cm.  W³asno¶æ prywatna."
+"Portret_narzeczonej.jpg"	"Portret narzeczonej "	"1884. Olej na p³ótnie. 58,5 x 46,5 cm.  W³asno¶æ prywatna."
+"Zielony_pejzaz.jpg"	"Zielony pejza¿ "	"Ok. 1885. Olej na p³ótnie. 14,5 x 30 cm.  W³asno¶æ prywatna."
+"Pejzaz_z_krowami.jpg"	"Pejza¿ z krowami "	"1886. Akwarela na papierze. 27,1 x 38,4 cm.  W³asno¶æ prywatna."
+"Wierzby_nad_stawem.jpg"	"Wierzby nad stawem "	"1886. Akwarela na papierze. 27,2 x 38,4 cm.  W³asno¶æ prywatna."
+"Pejzaz_podkrakowski.jpg"	"Pejza¿ z okolic Krakowa "	"1886. Olej na p³ótnie. 211 x 117 cm.  Muzeum Narodowe w Krakowie."
+"Krajobraz_zimowy.jpg"	"Krajobraz zimowy "	"1886. Olej na p³ótnie. 74 x 130 cm.  Muzeum Narodowe w Krakowie."
+"Rozlewiska.jpg"	"Mazowieckie rozlewiska <big> (Pejza¿)</big>"	"1886. Olej na p³ótnie. 50 x 100 cm.  W³asno¶æ prywatna."
+"Zielony_pejzaz_2.jpg"	"Zielony pejza¿ "	"1886. Olej na p³ótnie. 35,5 x 46,5 cm.  W³asno¶æ prywatna."
+"Zielony_pejzaz_z_chalupa.jpg"	"Zielony pejza¿ z cha³up± "	"1886. Olej na p³ótnie. 32 x 49,5 cm.  W³asno¶æ prywatna."

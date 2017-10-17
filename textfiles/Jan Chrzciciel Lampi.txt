@@ -1,0 +1,12 @@
+Jan Chrzciciel Lampi
+Romeno ko³o Trydentu 1751 - Wiedeñ 1830
+"Dama_z_nutami.jpg"	"Portret damy z nutami (Urszula zMorsztynów Dembiñska) "	"1789. Olej na p³ótnie. 78 x 62 cm.  Muzeum Narodowe w Warszawie."
+"Kordula_Potocka.jpg"	"Portret Korduli z Komorowskich Potockiej "	"1790. Muzeum Narodowe w Warszawie."
+"Portret_damy.jpg"	"Portret damy (Korduli z KomorowskichPotockiej, wojewodziny be³¿skiej?) "	"?. Olej na p³ótnie.80 x 63,5 cm.  Muzeum Podlaskie w Bia³ymstoku.       "
+"Pawel_Grabowski.jpg"	"Portret Paw³a Grabowskiego "	"Ok. 1790. Olej na p³ótnie.78 x 61,5 cm.  Muzeum Narodowe w Warszawie."
+"Stanislaw_August.jpg"	"PortretStanis³awa Augusta w szlafroku "	"Ok. 1790.Olej na p³ótnie. 79,5 x 63 cm. Muzeum Narodowe w Warszawie."
+"Szczesny_Potocki.jpg"	"Portret Szczêsnego Potockiego "	"Ok. 1790. Olej na p³ótnie. 78,5 x 61,5 cm.  Muzeum Narodowe w Warszawie."
+"Jozefa_z_Radziwillow.jpg"	"Portret Józefy z Radziwi³³ów 1° v.Massalskiej, 2° v. Grabowskiej "	"Ok. 1791. Olej na p³ótnie. 97 x 62 Muzeum Narodowe w Warszawie."
+"Teresa_Potocka.jpg"	"Portret Teresy z Ossoliñskich Potockiej zwnukiem Alfredem "	"1791-1792. Olej na p³ótnie. Muzeum Narodowe w Warszawie.."
+"Ludwika_Kossakowska.jpg"	"Portret Ludwiki z Potockich Kossakowskiej "	"1807. Muzeum Narodowe we Wroc³awiu."
+"Stanislaw_Potocki.jpg"	"Stanis³aw Szczêsny Potocki z synami "	"?       "

@@ -1,0 +1,18 @@
+Stanis³aw Witkiewicz
+Poszawsze pod Szaw³ami 1851 - Lovran (Istria) 1915
+"M_Gierymski.jpg"	"Portret MaksymilianaGierymskiego"	"      <small>Rycina wykonana wg fotografii.</small>  Ok. 1872.        "
+"Dwor_w_Urdominie.jpg"	"Dwór wUrdominie  "	"1873. Olej na p³ótnie. 26 x 39,5 cm.  W³asno¶æ prywatna. "
+"Oficyna.jpg"	"Oficyna wUrdominie  "	"1873. Olej na p³ótnie. 39 x 32 cm.  Muzeum Podlaskiie, Bia³ystok. "
+"Na_pastwisku.jpg"	"Na pastwisku "	"1875. Olej na p³ótnie. 82 x 122,5 cm.  Muzeum Narodowe, Warszawa. "
+"Orka.jpg"	"Orka "	"1875. Olej na p³ótnie. 101 x 174,5 cm.  Muzeum Sztuki, £ód¼. "
+"Postoj_pod_skalami.jpg"	"Postój podska³ami "	"Ok. 1876. Tempera, papier. 30 x 45 cm.  Muzeum Narodowe, Kraków. "
+"Waskie_wrota.jpg"	"W±skie wrota       "	"1877. Olej na p³ótnie. 46 x 82 cm.  Muzeum Narodowe, Warszawa."
+"Mlynek.jpg"	"M³ynek  "	"1877. Olej na p³ótnie. 53,5 x 33,5 cm.  W³asno¶æ prywatna."
+"Pogrzeb_na_wsi.jpg"	"Pogrzeb na wsi "	"1878. Olej na p³ótnie. 62,5 x 116,5 cm.  Muzeum Narodowe, Warszawa."
+"Ranny_powstaniec.jpg"	"Ranny powstaniec  "	"1881. Olej na p³ótnie. 59,5 x 117 cm.  Muzeum Narodowe, Warszawa."
+"Powstaniec_zabity.jpg"	"Powstanieczabity "	"1882. Olej. 42 x 63 cm.  Zaginiony."
+"Na_jarmarku.jpg"	"Na jarmarku  "	"1882. Olej na p³ótnie. 77 x 62 cm.  Bank Rozwoju Eksportu SA."
+"Baltyk_pod_Polaga.jpg"	"Widok Ba³tyku pod Po³±g±  "	"1885. Olej na p³ótnie. 76 x 120 cm.  Muzeum Narodowe, Warszawa."
+"Zachod_slonca.jpg"	"Zachód s³oñca na morzu  "	"1887. Olej na p³ótnie. 33 x 43 cm.  Muzeum Narodowe, Kraków.&nbsp;"
+"Powrot_z_polowu.jpg"	"Powrót zpo³owu "	"?. Olej na p³ótnie. 47 x 69 cm.  Muzeum Sztuki, £ód¼.        "
+"Morze_z_lodeczka.jpg"	"Morze z³ódeczk±  "	"?. O³ówek, gwasz, deska. 13,7 x 20,3 cm.  Muzeum Narodowe, Kraków.        "

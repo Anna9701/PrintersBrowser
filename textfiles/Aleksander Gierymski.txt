@@ -1,0 +1,17 @@
+&nbsp;Aleksander Gierymski
+Warszawa 1850 - Rzym 1901
+"Hamlet.jpg"	"Hamlet "	"1870. Olej na p³ótnie. 73,7 x 54,7 cm.  Muzeum Narodowe we Wroc³awiu.."
+"Postoj_kawalerii.jpg"	"Postój kawalerii "	"Ok. 1870. Olej na p³ótnie.  W³asno¶æ prywatna.       "
+"Kupiec_wenecki_szkic.jpg"	"Scena s±du z "Kupca weneckiego", szkic t.zw.modello "	"1872. Olej na p³ótnie. W³asno¶æ prywatna."
+"Kupiec_wenecki.jpg"	"Scena s±du z "Kupca weneckiego" "	"1873. Olej na p³ótnie. Obraz zaginiony.       "
+"Austeria_rzymska_szkic.jpg"	"Austeria rzymska, szkic "	"1874. Olej na p³ótnie. Muzeum Narodowe w Warszawie."
+"Gra_w_mora.jpg"	"Gra w mora "	"1874. Olej na p³ótnie. 80 x 109 cm.  Muzeum Narodowe w Warszawie."
+"Wnetrze_mieszkania.jpg"	"Wnêtrze mieszkania Gierymskich w Monachium "	"Przed 1874. Olej na tekturze. 37,6 x 41,8 cm.  Muzeum Narodowe w Krakowie."
+"Altana_studium.jpg"	"Altana, studium II  "	"1876-1880. Olej na p³ótnie. 57,5 x 41 cm.  Muzeum Narodowe w Warszawie."
+"Begonie.jpg"	"Begonie, studium do obrazu "W altanie"       "	"1876-1880. Olej na p³ótnie. 57,5 x 41 cm.  Muzeum Sztuki w £odzi."
+"Fontanna.jpg"	"Fontanna, studium do obrazu "W altanie"       "	"1875-1879. Olej na p³ótnie. 29,5 x 49,5 cm.  Muzeum Narodowe w Krakowie."
+"Pan_w_czerwonym_fraku.jpg"	"Pan w czerwonym fraku  "	"1876-1880. Olej na p³ótnie. 131 x 67,5 cm.  Muzeum Sztuki w £odzi."
+"Sjesta_szkic.jpg"	"Siesta w³oska, szkic  "	"Ok. 1878. O³ówek na papierze. W³asno¶æ prywatna.       "
+"Siesta_wloska.jpg"	"Siesta w³oska  "	"1876-1880. Olej na p³ótnie. 141 x 91 cm.  Muzeum Narodowe w Warszawie."
+"Zydowka_z_owocami.jpg"	"¯ydówka sprzedaj±ca owoce, szkic "	"1880. Olej na p³ótnie. Obraz zaginiony.       "
+"Zydowka_z_cytrynami.jpg"	"¯ydówka z cytrynami  "	"1881. Olej na p³ótnie. 63,5 x 47,5 cm.  Muzeum ¦l±skie, Katowice."

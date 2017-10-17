@@ -1,0 +1,17 @@
+Ferdynand Ruszczyc
+Bohdanów 1870 - Bohdanów 1936
+"Strumyk_w_lesie.jpg"	"Strumyk w lesie - studium "	"1892. O³ówek na papierze. 35 x 25,1 cm.  W³asno¶æ prywatna."
+"Aleja_cyprysowa.jpg"	"Aleja cyprysowa na Krymie "	"1894.Olej na p³ótnie naklejonym na tekturê. 35 x 21,5 cm. W³asno¶æ prywatna."
+"Pejzaz_z_cyprysami.jpg"	"Pejza¿ z cyprysami "	"1894-1895. Olej na tekturze. 32 x 26,7 cm.  W³asno¶æ prywatna."
+"Krym_Alupka.jpg"	"Motyw z Krymu - A³upka "	"1894. O³ówek na papierze. 24,8 x 15,7 cm.  Muzeum Narodowew Krakowie.       "
+"Skala_w_morzu.jpg"	"Ska³a w morzu "	"1894. Olej na p³ótnie naklejonym na tekturê. 30,4 x 39,3 cm.  W³asno¶æ prywatna."
+"Brzeg_morza_i_skaly.jpg"	"Brzeg morza i ska³y "	"Ok. 1895. Olej na p³ótnie. 22 x 30 cm. W³asno¶æ prywatna."
+"Morze_i_skaly.jpg"	"Morze i ska³y  "	"1895. Olej na p³ótnie naklejonym na tekturê. 29,5 x 44,2 cm.  W³asno¶æ prywatna."
+"Pejzaz_morski.jpg"	"Pejza¿ morski "	"1895. Olej, p³ótno na tekturze. 12,5 x 10,2 cm.  Muzeum Mazowieckie w P³ocku.       "
+"Pejzaz_rzeczny.jpg"	"Pejza¿ rzeczny "	"1895. Olej na p³ótnie naklejonym na tekturê. 25,8 x 37,6 cm.  Muzeum Narodowe w Warszawie."
+"Chata.jpg"	"Chata  "	"1895. Olej na p³ótnie. 25,5 x 32 cm.  Muzeum Górno¶l±skie w Bytomiu.       "
+"Karczma_przy_drodze.jpg"	"Karczma przy drodze "	"1896. Olej na p³ótnie. 29,8 x 41,9 cm.  Muzeum Narodowe w Warszawie.       "
+"Dwie_lodzie.jpg"	"Dwie ³odzie ¿aglowe "	"1896. olej na p³ótnie. 43,5 x 31,5 cm.  Centralne Muzeum Morskie w Gdañsku.       "
+"Morze_i_chmury.jpg"	"Morze i chmury "	"1896. Olej, p³ótno na tekturze. 19 x 40,5 cm.  Muzeum Narodowe w Szczecinie.       "
+"Brzeg_morski_1.jpg"	"Brzeg morski  "	"1897. Olej na kartonie. 29,5 x 44,7 cm.  Muzeum Narodowe w Szczecinie."
+"Bornholm.jpg"	"Pejza¿ z Bornholmu "	"1897. Olej na p³ótnie naklejonym na tekturê. 42,5 x 52,5 cm. Muzeum Narodowe w Warszawie."

@@ -1,0 +1,17 @@
+Zygmunt Waliszewski
+Petersburg 1897 - Kraków 1936
+"MN_z_lustrem.jpg"	"Martwa natura z lustrem iportretem damy w welonie (wg Rafaela) "	"1914-1918. Olej, tektura. 32 x 40 cm.  Muzeum Narodowe w Warszawie."
+"MN_kubistyczna.jpg"	"Martwa natura kubistyczna "	"1915. Tusz, akwarela, kredka, papier. 19,6 x 13,8 cm.  Muzeum Narodowe w Warszawie."
+"W_pracowni.jpg"	"W pracowni artysty "	"1917. Akwarela, gwasz, kredka, o³ówek, papier. 17 x 11,8 cm.  Muzeum Narodowe w Warszawie."
+"Spiewaczka.jpg"	"¦piewaczka "	"1917. Akwarela, o³ówek, atrament, papier. 34,5 x 21,5 cm.  Muzeum Narodowe w Warszawie."
+"W_hamaku.jpg"	"Hamak "	"Ok. 1917. Akwarela, gwasz, o³ówek, atrament, papier. 14,3 x 18,6 cm.  Muzeum Narodowe w Warszawie."
+"Autoportret_w_cylindrze.jpg"	"Autoportret w cylindrze "	"1920. Wêgiel, papier. 81 x 64,5 cm.  Muzeum Narodowe w Warszawie."
+"MB_Czestochowska.jpg"	"Matka Boska Czêstochowska "	"1921. Akwarela, collage, papier. 67 x 49 cm.  Muzeum Narodowe w Krakowie."
+"Amazonka.jpg"	"Amazonka "	"1921. Olej na tekturze. 38 x 51 cm.  Muzeum Narodowe w Warszawie."
+"W_lozy.jpg"	"W lo¿y "	"1922. Tempera na tekturze. 62 x 48 cm. Muzeum Narodowe w Krakowie."
+"Jozef_Poniatowski.jpg"	"Ksi±¿ê Józef Poniatowski na koniu "	"1923. Olej na ceracie. 114,5 x 82,5 cm. Muzeum Górno¶l±skie w Bytomiu.       "
+"Lucjan_Murat.jpg"	"Lucjan Murat król Neapolu (Je¼dziec na koniu) "	"1923. Gwasz, papier. 96 x 72 cm. Muzeum Sztuki w £odzi.       "
+"Jozef_Czapski.jpg"	"Portret Józefa Czapskiego "	"Ok.1924. Olej na tekturze. 68 x 47,5 cm.  Muzeum Narodowe w Warszawie."
+"Pastuszki_pod_drzewem.jpg"	"Pastuszki pod drzewem "	"1924. Olej, dykta. 62,7 x 48,4 cm. W³asno¶æ prywatna."
+"Pejzaz_zimowy.jpg"	"Pejza¿ zimowy z chat± "	"1924. Olej, p³ótno. 62 x 45,5 cm. W³asno¶æ prywatna."
+"Pejzaz_z_Cagnes.jpg"	"Pejza¿ z Cagnes  <big>(z dziewczyn±)</big>"	"1925. Olej, p³ótno. 58 x 72 cm. W³asno¶æ prywatna.       "

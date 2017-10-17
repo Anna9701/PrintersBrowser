@@ -1,0 +1,17 @@
+Witold Pruszkowski
+Berszad ko³o Odessy 1846 - Budapeszt 1896
+"Krajobraz_ksiezycowy.jpg"	"Krajobraz ksiê¿ycowy  "	"1870. Olej na p³ótnie. 35,7 x 49,7 cm.  Muzeum Górno¶l±skie, Bytom."
+"Portret_siostry.jpg"	"Portret siostry artysty "	"1875. Olej na p³ótnie. 99 x 67,5 cm. Muzeum Narodowe, Warszawa."
+"Kaz_Bartoszewicz.jpg"	"Portret Kazimierza Bartoszewicza  "	"1876. Olej na p³ótnie. 128,5 x 41 cm.  Muzeum Sztuki, £ód¼."
+"Kiedy_ranne.jpg"	"Kiedy ranne wstaj± zorze. "	"1876. Olej na p³ótnie. 94 x 132 cm.  Muzeum Narodowe, Warszawa."
+"Nimfy_wodne.jpg"	"Nimfy wodne  "	"1877. Olej na p³ótnie. 150 x 100 cm.  Muzeum Narodowe, Warszawa."
+"Rusalki.jpg"	"Rusa³ki "	"1877. Olej na p³ótnie. 250 x 161 cm. Muzeum Narodowe, Kraków.       "
+"S_Fedorowiczowa_1.jpg"	"Portret Stefanii Fedorowiczowej "	"1878. Olej na p³ótnie. 52,5 x 42,5 cm.  Pañstwowe Zbiory Sztuki na Wawelu.       "
+"S_Fedorowiczowa_2.jpg"	"Portret Stefanii Fedorowiczowej na otomanie       "	"1879. Olej na p³ótnie. 88,5 x 60,4 cm.  Lwowska Galeria Sztuki.       "
+"Spowiedz_Madeja.jpg"	"Spowied¼ Madeja  "	"1879. Olej na p³ótnie. 139 x 114 cm.  Muzeum Narodowe, Warszawa."
+"Sielanka.jpg"	"Sielanka  "	"1880. Olej na p³ótnie. 251 x 160 cm.  Muzeum Narodowe, Kraków."
+"Syn_z_psem.jpg"	"Portret syna artysty z psem  "	"1881. Olej na p³ótnie. 112,5 x 87 cm. Muzeum Narodowe, Warszawa."
+"Swit.jpg"	"¦wit  "	"1881. Olej na p³ótnie. 155 x 63 cm. Muzeum Narodowe, Kraków."
+"Zmierzch_2.jpg"	"Zmierzch "	"Ok. 1881. Olej na p³ótnie. 155 x 63 cm. Muzeum Narodowe, Kraków."
+"Przy_studni.jpg"	"Przy studni (Umizgi) "	"1882. Olej na p³ótnie. 188 x 138 cm.  Muzeum Narodowe, Poznañ."
+"Spadajaca_gwiazda.jpg"	"Spadaj±ca gwiazda "	"1884. Olej na p³ótnie. 168 x 152 cm.  Muzeum Narodowe, Warszawa."

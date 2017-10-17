@@ -1,0 +1,17 @@
+Józef Szermentowski
+Bodzentyn 1833 - Pary¿ 1876
+"Wies_kielecka.jpg"	"Widok wsi kieleckiej (okoliceDêbna) "	"1855. Olej na tekturze. 21,2 x 25,5 cm.  Muzeum Narodowe, Kraków."
+"Widok_Sandomierza.jpg"	"WidokSandomierza od strony Wis³y "	"1855. Olej na p³ótnie. 57 x 81,5 cm.  Muzeum Narodowe, Kielce."
+"Checiny.jpg"	"Chêciny "	"1857. Olej na p³ótnie. 56,6 x 81,5 cm.  Muzeum Narodowe, Kielce."
+"Odpoczynek_oracza.jpg"	"Odpoczynekoracza "	"1861. Olej na p³ótnie. 71 x 100 cm.  Muzeum Narodowe, Warszawa."
+"Pogrzeb_chlopski.jpg"	"Pogrzeb ch³opski "	"1862. Olej na p³ótnie. 79,5 x 106 cm.  Muzeum Narodowe, Warszawa."
+"Przed_kosciolem.jpg"	"Przedko¶cio³em  "	"1862-1865. Olej na p³ótnie. 49 x 65,5 cm.  W³asno¶æ prywatna. "
+"Studium_wioski.jpg"	"Studium wioski polskiej "	"1866-68. Olej, tektura. 46 x 55 cm.  Muzeum Narodowe, Kraków."
+"Jezioro_w_lesie.jpg"	"Jezioro w lesie "	"1868. Olej na p³ótnie. 33 x 39 cm.  Muzeum Narodowe, Warszawa."
+"Pieniny.jpg"	"Pieniny "	"1868. Olej na p³ótnie.&nbsp;  Muzeum Narodowe, Kraków."
+"Pasowanie_na_rycerza.jpg"	"Stary ¿o³nierz i dziecko w parku (Pasowaniena rycerzaprzez dziadunia) "	"1868. Olej na p³ótnie.&nbsp;  Muzeum Narodowe, Poznañ."
+"Pejzaz_z_krowami.jpg"	"Pejza¿ z krowami "	"1869. Olej na p³ótnie. 60 x 100 cm.  W³asno¶æ prywatna."
+"Droga_do_wsi.jpg"	"Droga do wsi "	"1872. Olej na p³ótnie. 59 x 80,5 cm. Muzeum Narodowe, Kielce."
+"Poddanstwo.jpg"	"Poddañstwo "	"1873. Olej na p³ótnie. 65,5 x 92 cm.  Muzeum Narodowe, Warszawa. "
+"W_parku.jpg"	"W parku "	"1873. Olej na p³ótnie. 55 x 46 cm.  Muzeum Narodowe, Wroc³aw."
+"Krajobraz_nadrzeczny.jpg"	"Krajobraz nadrzeczny "	"1873. Olej na p³ótnie. 53 x 72 cm.  Muzeum Narodowe, Kielce."

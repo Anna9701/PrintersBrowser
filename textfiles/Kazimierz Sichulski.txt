@@ -1,0 +1,17 @@
+Kazimierz Sichulski
+Lwów 1879 - Lwów 1942
+"Gesiarek.jpg"	"Gêsiarek "	"1900 Pastel na kartonie.  Muzeum Diecezjalne w Tarnowie.       "
+"Bodiaki.jpg"	"Bodiaki  "	"1904. Olej na desce. 42 x 78 cm. Muzeum Narodowe w Krakowie."
+"Polesie.jpg"	"Polesie "	"1904. Olej na p³ótnie. 93,5 x 150 cm. Muzeum Narodowe w Krakowie. "
+"Sieroty.jpg"	"Sieroty  "	"1906. Olej na p³ótnie. 99,5 x 99 cm.  Lwowska Galeria Sztuki.       "
+"Niedziela_Palmowa.jpg"	"Niedziela palmowa (tryptyk) "	"1906. Pastel, gwasz i tempera na papierze naklejonym na tekturê. Muzeum Narodowe w Krakowie.       "
+"Dziewczynki_huculskie.jpg"	"Dziewczynki huculskie (lewa czê¶ætryptyku <span style="font-style: italic;">Niedziela Palmowa</span>).       "	"136 x 71,5 cm       "
+"Niedziela_Palmowa_C.jpg"	"Dwaj ch³opcy huculscy z baziami (¶rodkowaczê¶æ tryptyku <span style="font-style: italic;">Niedziela Palmowa</span>) "	"135,5 x 113,5 cm.       "
+"Niedziela_Palmowa_P.jpg"	"Dwaj ch³opcy huculscy (prawa czê¶æ tryptyku <span style="font-style: italic;">Niedziela Palmowa</span>) "	"135,5 x 71,5 cm.              "
+"Huculka_2.jpg"	"Hucu³ka "	"1906 (?). Pastel na kartonie.  Muzeum Diecezjalne w Tarnowie."
+"Mlode_huculki.jpg"	"M³ode Hucu³ki "	"?  Wg pocztówki Wyd. Salonu Malarzy Polskich w Krakowie, pocz±tek XX wieku.       "
+"Pasterz.jpg"	"Pasterz (Hucu³ z owcami) "	"1906. Olej na p³ótnie. 98 x 132 cm.  Muzeum Okrêgowe w Lublinie."
+"Huculka_3.jpg"	"Hucu³ka "	"1906. Pastel i gwasz na papierze. 76 x 56 cm. Muzeum Narodowe w Krakowie."
+"Druzka.jpg"	"Dru¿ka (Hucu³ka) "	"1906. Pastel,&nbsp; tempera, gwasz&nbsp; i wêgiel na papierze. 76 x 55cm. Muzeum Narodowe w Krakowie."
+"Hucul.jpg"	"Hucu³ (Zatroskany Hucu³) "	"1906. Pastel, gwasz i wêgiel na papierze naklejonym na tekturê. 598 x800 Muzeum Narodowe w Krakowie."
+"Zielony_Balonik.jpg"	"Kabaret Zielonego Balonika "	"1908. Olej na p³ótnie. 147 x 204 cm. Muzeum Literatury im. Adama Mickiewicza w Warszawie.       "

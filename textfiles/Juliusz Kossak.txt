@@ -1,0 +1,17 @@
+Juliusz Kossak
+Nowy Wi¶nicz 1824 - Kraków 1899
+"Maurycy_Potocki.jpg"	"Maurycy Potocki na polowaniu.       "	"Ok. 1845. Akwarela, gwasz. 29,3 x 37 cm.  Muzeum Narodowe, Warszawa."
+"Kafarek.jpg"	"Kafarek.       "	"1855. Akwarela. 38 x 31,5 cm.  Muzeum Narodowe, Poznañ."
+"Potyczka.jpg"	"Potyczka.  "	"Ok.1855. Akwarela, papier. 24,5 x 32 cm.&nbsp;  Muzeum Narodowe, Kraków."
+"Polowanie_w_Poturzycy.jpg"	"Polowanie wPoturzycy <big>&nbsp; u Dzieduszyckich</big>"	"1855. Akwarela. 59 x 86,5 cm.  Muzeum Narodowe, Wroc³aw."
+"Masztalerz.jpg"	"Masztalerz z koñmi Dzia³yñskich w Kórniku       "	"1856. Akwarela. 36,5 x 44,8 cm.  Muzeum Narodowe, Warszawa."
+"Portret_Lubienskich.jpg"	"Portret konny £ubieñskich.  "	"Ok. 1856. Akwarela. 49 x 51,5 cm  Muzeum Narodowe, Warszawa."
+"Przeprawa_przez_Dniestr.jpg"	"Przeprawa towarzysza pancernego przez Dniestr.       "	"1856. Papier,sepia i rysunek o³ówkiem. 15,3 x 25,5 cm.  Muzeum Narodowe, Kraków."
+"Przez_Dniestr.jpg"	"Przeprawa rotmistrza pancernego przez Dniestr.       "	"1856. Akwarela. 26 x 44 cm. W³asno¶æ prywatna.        "
+"Polowanie_na_lisa.jpg"	"Polowanie na lisa.  "	"1857. Akwarela. 22 x 27,7 cm.  Muzeum Narodowe, Warszawa."
+"Mohort.jpg"	"Mohort prezentuj±cy stadninê ksiêciu JózefowiPoniatowskiemu.  "	"1858. Olej na p³ótnie. 55 x 80,5 cm.  Muzeum Narodowe, Warszawa."
+"Lisowczyk.jpg"	"Lisowczyk.  "	"Ok. 1860. Olej na p³ótnie. 55 x 45,5 cm.  Muzeum Narodowe, Warszawa."
+"Berek_Joselewicz.jpg"	"BerekJoselewicz pod Kockiem  "	"1861. Akwarela. 43 x 36 cm.  Litografia."
+"Pejzaz.jpg"	"Pejza¿ zkrowami  "	"Bez daty. Akwarela. 17,5 x 21,5 cm.  Muzeum Narodowe, Warszawa."
+"Woznica_warszawski.jpg"	"Wo¼nica warszawski.  "	"1863. Akwarela, papier. 34,5 x 53 cm.  Muzeum Narodowe, Kraków."
+"Portret_Aleksandra_T.jpg"	"Portret konny Aleksandra Tykla.  "	"1864. Akwarela. 52 x 45,2 cm.  Muzeum Narodowe, Warszawa."

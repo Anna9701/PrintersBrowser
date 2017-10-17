@@ -1,0 +1,17 @@
+Aleksander Or³owski
+Warszawa 1777 - Petersburg 1832
+"Autoportret_1793.jpg"	"Autoportret w stroju francuskim "	"Oko³o 1793.Rysunek pêdzlem tuszem, lawowany, w tonie ciemnoszarym, papierpr±¿kowany. 11,1 x 8 cm. Muzeum Narodowe w Krakowie, Zbiory Czartoryskich.       "
+"Na_biwaku.jpg"	"Na biwaku "	"1794. Akwarela. 36 x 48 cm. Muzeum Wojska Polskiego w Warszawie.       "
+"Tadeusz_Kosciuszko.jpg"	"Tadeusz Ko¶ciuszko "	"1794. Rysunek piórem tuszem, papier ¿eberkowy naklejony na karton. 24,2x 17,7 cm. Muzeum Narodowe w Krakowie."
+"Polskie_miasteczko.jpg"	"Widok polskiego miasteczka "	"1797.  Muzeum Narodowe w Krakowie."
+"Zabawa_w_karczmie.jpg"	"Zabawa wojska ko¶ciuszkowskiego w karczmie "	"1797. Rysunek piórem, lawowany sepi±. 44,7 x 60,2 cm. Muzeum Narodowe w Warszawie."
+"Wziecie_Pragi.jpg"	"Wziêcie Pragi  "	"1797.  Muzeum Narodowe w Krakowie. Zbiory Czartoryskich."
+"Bitwa_pod_Raclawicami.jpg"	"Bitwa pod Rac³awicami  "	"1798. Rysunek tuszem, lawowany. 30,3 x 49 cm. Muzeum Narodowe w Krakowie. Zbiory Czartoryskich."
+"Rzez_Pragi.jpg"	"Rze¼ Pragi  "	"Muzeum Narodowe w Krakowie. Zbiory Czartoryskich."
+"Przemarsz_wojska.jpg"	"Przemarsz wojska ko¶ciuszkowskiego  "	"1800-1802.  Biblioteka Narodowa. Gabinet Rycin."
+"Walka_z_Tatarami.jpg"	"Walka wojsk pancernych z Tatarami  "	"1798.  Muzeum Narodowe w Krakowie. Zbiory Czartoryskich."
+"Krajobraz_z_woda.jpg"	"Krajobraz z wod± w ¶wietle ksiê¿yca  "	"ok. 1800. Akwarela, gwasz, sepia, papier. 44,2 x 55,7 cm.  Muzeum Narodowe w Warszawie."
+"Widok_morski.jpg"	"Widok morski  "	"Muzeum Narodowe, Poznañ."
+"Bitwa_o_przeprawe.jpg"	"Bitwa wojska ko¶ciuszkowskiego z rosyjskim oprzeprawêna rzece  "	"1801.  Muzeum Narodowe, Warszawa."
+"Scena_batalistyczna.jpg"	"Scena batalistyczna "	"1802.  Muzeum Narodowe, Kraków."
+"Uczta_u_Radziwillow.jpg"	"Uczta u Radziwi³³ów  "	"      "

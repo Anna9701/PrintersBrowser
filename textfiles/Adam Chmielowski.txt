@@ -1,0 +1,13 @@
+Adam Chmielowski
+Igo³omia k. Miechowa 1845 - Kraków 1916
+"List.jpg"	"List. "	"1870. Olej na tekturze. 28,5 x 21 cm.  Bracia Albertyni, Kraków."
+"Biwak_powstancow.jpg"	"Biwak powstañców w lesie. "	"1873-1874. Olej na p³ótnie naklejonym ba tekturê. 62 x 28 cm.  Bracia Albertyni, Kraków."
+"Dziewczynka_z_kapeluszem.jpg"	"Dziewczynka z kapeluszem ."	"1874. Olej na p³ótnie. 56 x 33 cm.  Bracia Albertyni, Kraków."
+"A_Sygietynski.jpg"	"Portret Antoniego Sygietyñskiego.  "	"1875. Olej na p³ótnie. 40,5 x 32,5 cm.  Muzeum Narodowe, Warszawa."
+"Ogrod_milosci.jpg"	"Ogród mi³o¶ci.  "	"1876. Olej na p³ótnie. 88 x 168 cm.  Muzeum Narodowe, Warszawa."
+"Cmentarz_wloski.jpg"	"Cmentarz w³oski.  "	"1880. Olej na p³ótnie. 79 x 143 cm.  Muzeum Narodowe, Kraków."
+"Szara_godzina.jpg"	"Szara godzina (Cmentarz w³oski).  "	"1880. Olej na p³ótnie. 44 x 124,5 cm.  Muzeum Narodowe, Kraków."
+"Ecce_Homo.jpg"	"Ecce Homo.  "	"1881. Olej na p³ótnie. 146 x 96,5 cm  Kaplica Sióstr Albertynek pod wezwaniem Ecce Homo, Kraków."
+"Zawale.jpg"	"Zawale.  "	"1883. Olej na p³ótnie. 69 x 120,5 cm.  Muzeum Narodowe, Kraków."
+"Czarnokozince.jpg"	"Czarnokoziñce nad Zbruczem.  "	"1886. Olej na p³ótnie.&nbsp; 32,5 x 62 cm. ?       "
+"Opuszczona_plebania.jpg"	"Opuszczona plebania.  "	"1888. Olej na p³ótnie. 71,5 x 56,8 cm.  Muzeum Narodowe, Warszawa."
