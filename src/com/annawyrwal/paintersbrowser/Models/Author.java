@@ -30,8 +30,12 @@ public class Author {
         return firstName.getValue() + " " + lastName.getValue() + " " + dates.getValue();
     }
 
-    public void loadAuthorsImages () {
+    private void loadAuthorsImages () {
         images = loadImages(textInFile);
+    }
+
+    public Map<String, Image> getImages() {
+        return images;
     }
 
     private Map<String, Image> loadImages(String[] text) {

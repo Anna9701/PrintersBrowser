@@ -2,9 +2,13 @@ package com.annawyrwal.paintersbrowser.View;
 
 import com.annawyrwal.paintersbrowser.Models.Author;
 import com.annawyrwal.paintersbrowser.Models.AuthorsLibrary;
+import com.annawyrwal.paintersbrowser.Models.Image;
+import javafx.beans.value.ChangeListener;
+import javafx.beans.value.ObservableValue;
 import javafx.collections.FXCollections;
 import javafx.fxml.FXML;
 import javafx.scene.control.ChoiceBox;
+import javafx.scene.control.Label;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -14,23 +18,40 @@ public class MainWindow {
     @FXML
     private ChoiceBox choiceBox;
 
+    @FXML
+    private Label titleLabel;
+
+    @FXML
+    private Label descriptionLabel;
+
+    @FXML
+    private Label placeLabel;
+
 
     private AuthorsLibrary authorsLibrary;
+    private Map<String, Image> imageMap;
+
 
 
     @FXML
     private void initialize() {
-        initAuthorLibrary();
         choiceBox.setItems(FXCollections.observableArrayList(getAuthors()));
+
+        choiceBox.getSelectionModel().selectedIndexProperty().addListener(new ChangeListener<Number>() {
+            @Override
+            public void changed(ObservableValue<? extends Number> observableValue, Number number, Number number2) {
+                Author author = (Author) choiceBox.getItems().get((Integer) number2);
+                loadImages(author);
+            }
+        });
     }
 
+    private void loadImages(Author author) {
+        imageMap = author.getImages();
+    }
 
-
-    private void initAuthorLibrary() {
+    private List<Author> getAuthors () {
         authorsLibrary = new AuthorsLibrary();
-    }
-
-    public List<Author> getAuthors () {
         Map<String, Author> map = authorsLibrary.getAuthorsMap();
         List<Author> authors = new ArrayList<>();
         authors.addAll(map.values());
