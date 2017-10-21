@@ -3,8 +3,6 @@ package com.annawyrwal.paintersbrowser.Models;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;
 
-import javax.swing.text.html.ImageView;
-
 public class Image {
     private final StringProperty name;
     private final StringProperty description;
@@ -13,10 +11,36 @@ public class Image {
     private final String imgDirPath = "File:images/";
 
     public Image(String name, String description, String localization, String path) {
-        this.name = new SimpleStringProperty(name);
-        this.description = new SimpleStringProperty(description);
-        this.localization = new SimpleStringProperty(localization);
+        this.name = new SimpleStringProperty(makeText(name));
+        this.description = new SimpleStringProperty(makeText(description));
+        this.localization = new SimpleStringProperty(makeLocalization(localization));
         this.image = new javafx.scene.image.Image(imgDirPath + path);
+    }
+
+    private String makeText(String text) {
+
+
+        if (text.startsWith("\"")) {
+            text = text.substring(1, text.length());
+        }
+        if (text.endsWith("\""))
+            text = text.substring(0, text.length() - 1);
+
+
+        return text;
+
+    }
+
+    private String makeLocalization(String text) {
+        try {
+            if (text.length() > 0)
+                text = text.substring(0, text.length() - 3);
+        } catch (IndexOutOfBoundsException ex) {
+            System.err.println(ex.getCause());
+        }
+
+        return text;
+
     }
 
     public javafx.scene.image.Image getImage() {
@@ -48,3 +72,4 @@ public class Image {
     }
 
 }
+
