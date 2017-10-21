@@ -18,11 +18,11 @@ public class AuthorsLibrary {
         authorsMap = getAuthorsFromDirectory();
     }
 
-    public Map getAuthorsMap () {
+    public Map getAuthorsMap() {
         return authorsMap;
     }
 
-    private Map<String, Author> getAuthorsFromDirectory () {
+    private Map<String, Author> getAuthorsFromDirectory() {
         File[] files = directory.listFiles();
         Map<String, Author> aMap = new HashMap<>();
 
