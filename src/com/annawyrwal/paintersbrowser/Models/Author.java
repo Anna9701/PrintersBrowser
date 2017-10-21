@@ -32,6 +32,7 @@ public class Author {
         return firstName.getValue() + " " + lastName.getValue() + " " + dates.getValue();
     }
 
+
     private void loadAuthorsImages() {
         if (images == null) {
             images = loadImages(textInFile);
@@ -43,6 +44,7 @@ public class Author {
         loadAuthorsImages();
 
         return imageLinkedList;
+
     }
 
     public Map<String, Image> getImages() {

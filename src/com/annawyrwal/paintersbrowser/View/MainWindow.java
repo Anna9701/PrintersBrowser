@@ -35,6 +35,8 @@ public class MainWindow {
     private AuthorsLibrary authorsLibrary;
     private int imageIndex;
     private ArrayList<Image> images;
+    private Map<String, Image> imageMap;
+
 
     @FXML
     private void initialize() {
@@ -47,6 +49,7 @@ public class MainWindow {
                 imageIndex = 0;
                 Author author = (Author) choiceBox.getItems().get((Integer) number2);
                 loadImages(author);
+                imageIndex = 0;
             }
         });
     }
