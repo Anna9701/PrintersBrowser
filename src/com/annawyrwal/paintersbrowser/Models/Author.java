@@ -31,10 +31,13 @@ public class Author {
     }
 
     private void loadAuthorsImages () {
-        images = loadImages(textInFile);
+        if (images == null)
+            images = loadImages(textInFile);
     }
 
     public Map<String, Image> getImages() {
+        loadAuthorsImages();
+
         return images;
     }
 

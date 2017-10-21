@@ -30,7 +30,7 @@ public class MainWindow {
 
     private AuthorsLibrary authorsLibrary;
     private Map<String, Image> imageMap;
-
+    private int imageIndex = 0;
 
 
     @FXML
@@ -42,12 +42,15 @@ public class MainWindow {
             public void changed(ObservableValue<? extends Number> observableValue, Number number, Number number2) {
                 Author author = (Author) choiceBox.getItems().get((Integer) number2);
                 loadImages(author);
+                imageIndex = 0;
             }
         });
     }
 
     private void loadImages(Author author) {
         imageMap = author.getImages();
+        Image[] s = (Image[]) author.getImages().values().toArray();
+        //titleLabel = s.g
     }
 
     private List<Author> getAuthors () {
