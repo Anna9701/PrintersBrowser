@@ -1,5 +1,6 @@
 package com.annawyrwal.paintersbrowser.Models;
 
+import com.annawyrwal.paintersbrowser.Global;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;
 
@@ -8,7 +9,8 @@ public class Image {
     private final StringProperty description;
     private final StringProperty localization;
     private final javafx.scene.image.Image image;
-    private final String imgDirPath = "File:images/";
+   // private final String imgDirPath = "File:images/";
+    private final String imgDirPath = "File:" + Global.getPath();
 
     public Image(String name, String description, String localization, String path) {
         this.name = new SimpleStringProperty(makeText(name));

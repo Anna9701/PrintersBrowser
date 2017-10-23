@@ -35,7 +35,6 @@ public class MainWindow {
     private AuthorsLibrary authorsLibrary;
     private int imageIndex;
     private ArrayList<Image> images;
-    private Map<String, Image> imageMap;
 
 
     @FXML

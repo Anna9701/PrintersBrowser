@@ -1,6 +1,6 @@
 package com.annawyrwal.paintersbrowser;
 
-import com.annawyrwal.paintersbrowser.Models.AuthorsLibrary;
+
 import com.annawyrwal.paintersbrowser.View.MainWindow;
 import javafx.application.Application;
 import javafx.fxml.FXMLLoader;
@@ -8,8 +8,10 @@ import javafx.scene.Parent;
 import javafx.scene.Scene;
 import javafx.stage.Stage;
 
+//@Author Anna Wyrwal
+//You need to pass path to images folder in parameter passed to program
+
 public class Main extends Application {
-    private AuthorsLibrary authorsLibrary;
 
     @Override
     public void start(Stage primaryStage) throws Exception {
@@ -28,6 +30,11 @@ public class Main extends Application {
 
 
     public static void main(String[] args) {
+        if (args.length < 1) {
+            System.err.println("Usage: <path to images folder>");
+            System.exit(-1);
+        }
+        Global.setPath(args[0]);
         launch(args);
     }
 }

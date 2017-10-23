@@ -3,12 +3,11 @@ package com.annawyrwal.paintersbrowser.Models;
 import javafx.beans.property.SimpleStringProperty;
 import javafx.beans.property.StringProperty;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
+import java.util.Scanner;
 
 public class Author {
     private final StringProperty firstName;
@@ -76,17 +75,23 @@ public class Author {
     private String textFromFile(String path) {
         String everything = "";
 
-        try (BufferedReader br = new BufferedReader(new FileReader(path))) {
+
+        try (Reader br = new InputStreamReader(new FileInputStream(path), "ISO8859-2")) {
             StringBuilder sb = new StringBuilder();
-            String line = br.readLine();
+            Scanner sc = new Scanner(br);
+            String line = sc.nextLine();
 
             while (line != null) {
                 sb.append(line);
                 sb.append(System.lineSeparator());
-                line = br.readLine();
+                if (sc.hasNext())
+                    line = sc.nextLine();
+                else
+                    line = null;
             }
 
             everything = sb.toString();
+            sc.close();
         } catch (IOException e) {
             e.printStackTrace();
         }

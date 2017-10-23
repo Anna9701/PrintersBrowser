@@ -1,0 +1,1 @@
+Path to images folder should be passed in execution parameter

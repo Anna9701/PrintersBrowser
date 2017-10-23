@@ -1,5 +1,7 @@
 package com.annawyrwal.paintersbrowser.Models;
 
+import com.annawyrwal.paintersbrowser.Global;
+
 import java.io.File;
 import java.util.HashMap;
 import java.util.Map;
@@ -7,7 +9,8 @@ import java.util.Map;
 public class AuthorsLibrary {
     private File directory;
     private Map<String, Author> authorsMap;
-    private String textDirPath = "textfiles/";
+    //private String textDirPath = "images/";
+    private String textDirPath = Global.getPath();
 
     public AuthorsLibrary() {
         directory = new File(textDirPath);
@@ -28,7 +31,8 @@ public class AuthorsLibrary {
 
         for (File file : files) {
             if (file.isFile()) {
-                aMap.put(file.getName(), new Author(file.getAbsolutePath()));
+                if (file.getName().endsWith(".txt"))
+                    aMap.put(file.getName(), new Author(file.getAbsolutePath()));
             } else {
                 System.err.println(file + " is not a file!");
             }

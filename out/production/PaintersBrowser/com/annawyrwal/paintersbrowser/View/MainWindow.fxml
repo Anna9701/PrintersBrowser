@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.Font?>
+<BorderPane minHeight="550.0" minWidth="550.0" xmlns="http://javafx.com/javafx/8.0.141"
+            xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.annawyrwal.paintersbrowser.View.MainWindow">
+    <top>
+        <GridPane BorderPane.alignment="CENTER">
+            <columnConstraints>
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="295.0" minWidth="10.0" prefWidth="246.0"/>
+                <ColumnConstraints hgrow="SOMETIMES" maxWidth="386.0" minWidth="10.0" prefWidth="354.0"/>
+            </columnConstraints>
+            <rowConstraints>
+                <RowConstraints minHeight="10.0" prefHeight="30.0" vgrow="SOMETIMES"/>
+            </rowConstraints>
+            <children>
+                <ChoiceBox fx:id="choiceBox" prefWidth="150.0">
+                    <GridPane.margin>
+                        <Insets left="10.0"/>
+                    </GridPane.margin>
+                </ChoiceBox>
+                <Button mnemonicParsing="false" onAction="#handlePrevImage" stylesheets="@DarkTheme.css"
+                        text="Poprzedni" GridPane.columnIndex="1"/>
+                <Button mnemonicParsing="false" onAction="#handleNextImage" stylesheets="@DarkTheme.css" text="Następny"
+                        GridPane.columnIndex="1">
+                    <GridPane.margin>
+                        <Insets left="120.0"/>
+                    </GridPane.margin>
+                </Button>
+            </children>
+            <BorderPane.margin>
+                <Insets top="10.0"/>
+            </BorderPane.margin>
+        </GridPane>
+    </top>
+    <bottom>
+        <TitledPane collapsible="false" prefHeight="145.0" text="Information" BorderPane.alignment="CENTER">
+            <content>
+                <AnchorPane minHeight="0.0" minWidth="0.0" prefHeight="20.0" prefWidth="866.0">
+                    <children>
+                        <VBox prefHeight="95.0" prefWidth="800.0">
+                            <children>
+                                <Label fx:id="titleLabel" textOverrun="CENTER_ELLIPSIS" wrapText="true">
+                                    <font>
+                                        <Font name="System Italic" size="14.0"/>
+                                    </font>
+                                    <effect>
+                                        <Lighting>
+                                            <bumpInput>
+                                                <Shadow/>
+                                            </bumpInput>
+                                            <light>
+                                                <Light.Distant/>
+                                            </light>
+                                        </Lighting>
+                                    </effect>
+                                </Label>
+                                <Label fx:id="descriptionLabel" wrapText="true">
+                                    <effect>
+                                        <Lighting>
+                                            <bumpInput>
+                                                <Shadow/>
+                                            </bumpInput>
+                                            <light>
+                                                <Light.Distant/>
+                                            </light>
+                                        </Lighting>
+                                    </effect>
+                                    <font>
+                                        <Font size="14.0"/>
+                                    </font>
+                                </Label>
+                                <Label fx:id="placeLabel" wrapText="true">
+                                    <effect>
+                                        <Lighting>
+                                            <bumpInput>
+                                                <Shadow/>
+                                            </bumpInput>
+                                            <light>
+                                                <Light.Distant/>
+                                            </light>
+                                        </Lighting>
+                                    </effect>
+                                    <font>
+                                        <Font size="14.0"/>
+                                    </font>
+                                </Label>
+                            </children>
+                        </VBox>
+                    </children>
+                </AnchorPane>
+            </content>
+            <BorderPane.margin>
+                <Insets bottom="10.0" top="5.0"/>
+            </BorderPane.margin>
+        </TitledPane>
+    </bottom>
+    <center>
+        <TitledPane collapsible="false" minWidth="500.0" text="Picture" BorderPane.alignment="CENTER">
+            <content>
+                <AnchorPane>
+                    <children>
+                        <BorderPane AnchorPane.bottomAnchor="5.0" AnchorPane.leftAnchor="5.0"
+                                    AnchorPane.rightAnchor="5.0" AnchorPane.topAnchor="5.0">
+                            <center>
+                                <ImageView fx:id="imageView" blendMode="DARKEN" fitHeight="450.0"
+                                           nodeOrientation="INHERIT" onSwipeLeft="#handleNextImage"
+                                           onSwipeRight="#handlePrevImage" pickOnBounds="true" preserveRatio="true"
+                                           BorderPane.alignment="CENTER">
+                                    <effect>
+                                        <Lighting>
+                                            <bumpInput>
+                                                <Shadow/>
+                                            </bumpInput>
+                                            <light>
+                                                <Light.Distant/>
+                                            </light>
+                                        </Lighting>
+                                    </effect>
+                                </ImageView>
+                            </center>
+                        </BorderPane>
+                    </children>
+                </AnchorPane>
+            </content>
+            <BorderPane.margin>
+                <Insets top="5.0"/>
+            </BorderPane.margin>
+        </TitledPane>
+    </center>
+</BorderPane>
